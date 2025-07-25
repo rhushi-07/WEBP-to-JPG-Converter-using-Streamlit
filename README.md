@@ -30,16 +30,12 @@ pip install streamlit pillow
 ### Usage
 
 1. Clone the repository:
-
-   ```bash
-   git clone [https://github.com/your-username/webp-to-jpg-converter.git](https://github.com/your-username/webp-to-jpg-converter.git)
-   cd webp-to-jpg-converter
-   ```
+   
+   git clone [https://github.com/your-username/webp-to-jpg-converter.git](https://github.com/rhushi-07/WEBP-to-JPG-Converter-using-Streamlit)
 
 
-````
 2. Run the Streamlit app:
-   ```bash
+````
 streamlit run app.py
 ````
 
